@@ -2,9 +2,9 @@
 Rastreador de ações utilizando o Python
 
 <p align="center">
-    <img src=".bibliotecas.jpg" max-width="600">
-    <img src=".proximos-passos.jpg" max-width="600">    
-    <img src=".normalizado-dados.jpg" max-width="600">
+    <img src="bibliotecas.jpg" max-width="600">
+    <img src="proximos-passos.jpg" max-width="600">    
+    <img src="normalizado-dados.jpg" max-width="600">
 </p>
 
 ## 🚧 Bibliotecas Python
