@@ -24,7 +24,7 @@ Rastreador de ações utilizando o Python
 
 * O objetivo é criar de forma simples um rastreador de ações. 
 * Gerar um gráfico com as informações coletadas.
-* Para uma comparação mais precisa devemos realizar a normalização das informações.
+* E para uma comparação mais precisa vamos normalizar as informações.
 
 ### Conteúdo 
 Com o objetivo de aprendizado e  prática!
